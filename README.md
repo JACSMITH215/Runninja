@@ -1,2 +1,0 @@
-# Runninja
-Runner Ninja Game 
